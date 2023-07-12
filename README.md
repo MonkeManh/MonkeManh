@@ -13,4 +13,3 @@ Skills: Python / Whisper / Selenium / Flask / HTML / Javascript
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MonkeManh)  
 
-![Profile views](https://gpvc.arturio.dev/MonkeManh)  
