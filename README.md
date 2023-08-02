@@ -4,9 +4,9 @@
 
 I started developing just to learn something new in my free time, but grew to enjoy it. When I am not out living life, I am coding some new scripts to make my life easier, and hope to help other people with them.
 
-Skills: Python / Whisper / Selenium / Flask / HTML / Javascript
+Skills: Python / Whisper / Selenium / Flask / HTML / Javascript / Google API-ENV-Logging Framework / Discord.py
 
-- 🔭 I’m currently working on BB Services Generation Machine 
+- 🔭 I’m currently working on Monke Manh Development Generation Machine 
 - 🌱 I’m currently learning Integrating whisper and HTML 
 - 📫 How to reach me: Discord - monkemanh 
 
